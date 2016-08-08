@@ -1,0 +1,29 @@
+_repo: As-Seen-By-Me_12416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bell, Lilian
+    alias: Bogue, Lilian Lida Bell
+    birthdate: 1867
+    deathdate: 1929
+    gutenberg_agent_id: '4047'
+    url: http://www.gutenberg.org/2009/agents/4047
+description: Cover -- Contents.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcc 'D'
+- !lcsh 'Egypt -- Description and travel'
+- GITenberg
+tableOfContents: 'First letter: on the way -- London -- Paris -- On board the yacht
+  "Hela" -- Vilna, Russia -- St. Petersburg -- Russia -- Moscow -- Constantinople
+  -- Cairo -- The Nile -- Greece -- Naples -- Rome.'
+title: As Seen By Me
+url: http://www.gutenberg.org/ebooks/12416
